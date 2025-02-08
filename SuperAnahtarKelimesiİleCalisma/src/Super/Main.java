@@ -11,7 +11,7 @@ public class Main {
 		System.out.println( ogrenci.getIsim() + " " +  ogrenci.getNumara() );
 		
 		ogrenci.ozet();
-
+		
 	}
 
 }
